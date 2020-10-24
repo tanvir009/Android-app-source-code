@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="Button_text">Show</string>
+</resources>
