@@ -2,7 +2,7 @@ Here you can find some epic source code of android app..Please give me a star , 
 
 My youtube channel : https://www.youtube.com/channel/UCXKo6DYxRIQZIogoOi7ffpw?sub_confirmation=1
 
-Linkdin : linkedin.com/in/md-tasnin-tanvir-75a580179 
+Linkdin : https://www.linkedin.com/in/md-tasnin-tanvir-75a580179/ 
 
 geeksforgeeks id : https://auth.geeksforgeeks.org/user/tanvir009/practice/
 
