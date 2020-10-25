@@ -1,0 +1,1 @@
+get data from 2nd activity to first activity

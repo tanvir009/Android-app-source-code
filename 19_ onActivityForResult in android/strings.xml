@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="button_text1">Go to second activity</string>
+    <string name="button_text2">Go to first activity</string>
+
+</resources>

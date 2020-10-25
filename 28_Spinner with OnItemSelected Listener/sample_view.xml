@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:weightSum="4"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        >
+        <ImageView
+            android:id="@+id/imageViewId"
+            android:layout_weight="1"
+            android:src="@drawable/afghanistan"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            />
+        <LinearLayout
+            android:layout_weight="3"
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/countryNameId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:text="Afghanistan"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:id="@+id/countryDetailsId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:text="Click to see the description..."
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

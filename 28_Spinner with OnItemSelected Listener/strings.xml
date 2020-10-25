@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My</string>
+    <string-array name="country_name">
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azebaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+
+    </string-array>
+
+    <string-array name="population">
+        <item>14 million</item>
+        <item>12 million</item>
+        <item>18 million</item>
+        <item>11 million</item>
+        <item>10 million</item>
+        <item>5 million</item>
+        <item>4 million</item>
+        <item>24 million</item>
+        <item>114 million</item>
+        <item>84 million</item>
+
+    </string-array>
+</resources>

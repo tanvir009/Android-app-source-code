@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#148e73"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    tools:context=".FirstActivity">
+    <AnalogClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        />
+
+<Button
+    android:id="@+id/bangladeshButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/bangladesh_button"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:drawableLeft="@drawable/bangladesh"
+    style="@style/Widget.AppCompat.Button.Colored"
+    />
+    <Button
+        android:id="@+id/indiaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/india_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/india"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+        android:id="@+id/pakistanButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pakistan_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/pakistan"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+
+</LinearLayout>
