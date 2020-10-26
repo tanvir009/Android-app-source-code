@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Innovative Tanvir</string>
+    <string name="bangladesh">
+        \nCapital: Dhaka
+        \n Regional languages: Chittagonian Sylheti Rangpuri
+        \n Date format: dd-mm-yyyy AD
+        \n GDP (nominal): 2020 estimate
+    </string>
+    <string name="india">
+        Capital: New Delhi
+        \nDialing code: +91
+        \nPopulation: 1.353 billion (2018) World Bank
+        \nPresident: Ram Nath Kovind
+    </string>
+</resources>
