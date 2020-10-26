@@ -1,0 +1,8 @@
+1.constructor: shift + shift + constructor + select all
+2.comment: ctrl + / (single line)
+            ctrl + shift + / (multiple line) 
+3. getter and setter : shift + shift + getter and setter
+
+4. variable name change : select variable + shift +f6
+
+5. search everywhere : shift + shift
