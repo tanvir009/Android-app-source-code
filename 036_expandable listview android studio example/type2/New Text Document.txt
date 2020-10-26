@@ -1,0 +1,3 @@
+note1: replace previous MainActivity.java with this 
+
+note2: string array is unnessary here..

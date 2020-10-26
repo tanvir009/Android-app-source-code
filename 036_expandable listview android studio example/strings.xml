@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Innovative Tanvir</string>
+    <string-array name="abbreviations_list_header">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+    </string-array>
+    <string-array name="abbreviations_list_child">
+        <item>Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.</item>
+        <item>India, officially the Republic of India, is a country in South Asia. It is the second-most populous country</item>
+        <item>Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia.</item>
+    </string-array>
+</resources>
