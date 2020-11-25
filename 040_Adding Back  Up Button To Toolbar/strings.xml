@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="pakistan_button">Pakistan</string>
+    <string name="title_text">Alert</string>
+    <string name="message_text">Do you want to exit?</string>
+    <string name="bangladesh_text">Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.\n\n
+                                    Capital: Dhaka\n
+                                    Regional languages: Chittagonian; Sylheti; Rangpuri\n
+                                    Date format: dd-mm-yyyy AD\n
+                                    GDP (nominal): 2020 estimate\n
+                                    Population: 161.4 million (2018) World Bank.\n</string>
+    <string name="india_text">India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Wikipedia\n\n
+                                Prime minister: Narendra Modi Trending\n
+                                Capital: New Delhi\n
+                                Dialing code: +91\n
+                                Population: 1.353 billion (2018) World Bank\n
+                                President: Ram Nath Kovind</string>
+    <string name="pakistan_text">Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the worlds fifth-most populous country with a population exceeding 212.2 million. It has the worlds second-largest Muslim population.\n\n
+                                Capital: Islamabad\n
+                                Dialing code: +92\n
+                                President: Arif Alvi\n
+                                Population: 212.2 million (2018) World Bank\n
+                                Date format:ddmm yyyy\n</string>
+
+</resources>
